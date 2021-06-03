@@ -1,0 +1,107 @@
+brand,model,launch,weight,display type,display size,ppi,cpu,gpu,main camera,wide,telephoto,selfie,battery
+Huawei,mate rs porsche design,2018-03,183,OLED,6.0,538,Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53),Mali-G72 MP12,40+8+20,1,1,24,4000
+Huawei,mate 20 rs porsche design,2018-10,187,OLED,6.39,538,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+20,1,1,24,4200
+Nokia,8 sirocco,2018-02,177,P-OLED,5.5,534,Octa-core (4x2.5 GHz Kryo & 4x1.8 GHz Kryo),Adreno 540,12+13,1,1,5,3260
+Huawei,mate 20 pro,2018-10,189,OLED,6.39,538,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+20,1,1,24,4200
+Xiaomi,mi mix 3,2018-10,218,Super AMOLED,6.39,403,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,12+12,1,1,24+2,3200
+Apple,iphone xs max,2018-09,208,Super Retina OLED,6.5,458,Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest),Apple GPU (4-core graphics),12+12,1,1,7,3174
+Huawei,mate 20 x,2018-10,232,OLED,7.2,346,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+20,1,1,24,5000
+Sony,xperia xz3,2018-08,193,P-OLED,6.0,537,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,19,1,0,13,3300
+Xiaomi,mi 8 pro,2018-09,177,Super AMOLED,6.21,402,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+12,0,0,20,3000
+Samsung,galaxy note9,2018-08,201,Super AMOLED,6.4,516,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55),Mali-G72 MP18,12+12,1,1,8+2,4000
+Blackberry,key2,2018-06,168,IPS LCD,4.5,434,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,12+12,0,0,8,3500
+Google,pixel 3,2018-10,148,P-OLED,5.5,443,Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver),Adreno 630,12.2,1,0,8+8,2915
+Sony,xperia xz2 premium,2018-04,236,IPS LCD,5.8,765,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,19+12,1,0,13,3540
+Huawei,mate 20,2018-10,188,IPS LCD,6.53,381,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,12+8+16,1,1,24,4000
+Htc,u12+,2018-05,188,Super LCD6,6.0,537,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,12+16+12,0,0,8+8,3500
+Htc,exodus 1,2018-10,188,Super LCD6,6.0,537,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,12+16+12,0,0,8+8,3500
+Xiaomi,black shark helo,2018-10,190,AMOLED,6.01,402,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+20,0,0,20,4000
+Blackberry,key2 le,2018-08,156,IPS LCD,4.5,434,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),Adreno 509,13+5,0,0,8,3000
+Xiaomi,mi 8,2018-05,175,Super AMOLED,6.21,402,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+12,0,1,20,3400
+Sony,xperia xz2 compact,2018-02,168,IPS LCD,5.0,483,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,19,1,0,5,2870
+Samsung,galaxy s9+,2018-02,189,Super AMOLED,6.2,529,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55),Mali-G72 MP18,12+12,1,1,8+2,3500
+Huawei,p20 pro,2018-03,180,OLED,6.1,408,Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53),Mali-G72 MP12,40+8+20,1,1,24,4000
+Samsung,galaxy s light luxury,2018-05,150,Super AMOLED,5.8,426,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,16,0,0,8+2,3000
+Samsung,galaxy a8s,2018-12,173,PLS IPS,6.4,403,Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 616,24+10+5,1,1,24,3400
+Huawei,nova 4,2018-12,172,LTPS IPS LCD,6.4,398,Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53),Mali-G72 MP12,48+20+16+2,1,0,25,3750
+Xiaomi,black shark,2018-04,190,IPS LCD,5.99,403,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+20,0,0,20,4000
+Xiaomi,mi 8 explorer,2018-05,177,Super AMOLED,6.21,402,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+12,0,0,20,3000
+Nokia,8 1 ,2018-10,180,IPS LCD,6.18,408,Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 616,12+13,0,0,20,3500
+Xiaomi,mi a2 lite ,2018-07,178,IPS LCD,5.84,432,Octa-core 2.0 GHz Cortex-A53,Adreno 506,12+5,0,0,5,4000
+Apple,iphone xs,2018-09,177,Super Retina OLED,5.8,458,Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest),Apple GPU (4-core graphics),12+12,1,1,7,2658
+Samsung,galaxy s9,2018-02,163,Super AMOLED,5.8,570,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55),Mali-G72 MP18,12,1,0,8+2,3000
+Lg,g7 thinq,2018-05,162,IPS LCD,6.1,564,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,16+16,1,0,8,3000
+Apple,iphone xr,2018-09,194,Liquid Retina IPS LCD,6.1,326,Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest),Apple GPU (4-core graphics),12,1,0,7,2942
+Xiaomi,mi 8 lite,2018-09,169,IPS LCD,6.26,403,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,12+5,0,0,24,3350
+Sony,xperia xz2,2018-02,198,IPS LCD,5.7,424,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,19,1,0,5,3180
+Xiaomi,pocophone f1,2018-08,182,IPS LCD,6.18,403,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),Adreno 630,12+5,0,0,20,4000
+Samsung,galaxy a8 star ,2018-06,191,Super AMOLED,6.3,392,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,24+16,1,0,24,3700
+Lg,v35 thinq,2018-05,157,P-OLED,6.0,538,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,16+16,1,0,8,3300
+Lg,g7 one,2018-08,156,IPS LCD,6.1,563,Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo),Adreno 540,16,0,0,8,3000
+Blackberry,evolve x,2018-08,170,IPS LCD,5.99,403,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,12+13,0,0,16,4000
+Huawei,nova 3,2018-07,166,IPS LCD,6.3,409,Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53),Mali-G72 MP12,16+24,1,0,24+2,3750
+Huawei,p20,2018-03,165,LTPS IPS LCD,5.8,429,Octa-core (4x2.4 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53),Mali-G72 MP12,12+20,1,0,24,3400
+Lg,v40 thinq,2018-10,169,P-OLED,6.4,537,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,12+12+16,1,1,8+5,3300
+Xiaomi,mi max 3,2018-07,221,IPS LCD,6.9,350,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),Adreno 509,12+5,0,0,8,5500
+Samsung,galaxy a7 ,2018-09,168,Super AMOLED,6.0,411,Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),Mali-G71,24+8+5,1,0,24,3300
+Samsung,galaxy j8,2018-05,177,Super AMOLED,6.0,274,Octa-core 1.8 GHz Cortex-A53,Adreno 506,16+5,0,0,16,3500
+Samsung,galaxy a6s,2018-10,183,PLS IPS,6.0,402,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),Adreno 512,12+5,0,0,12,3300
+Lg,v30s thinq,2018-02,158,P-OLED,6.0,538,Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo),Adreno 540,16+13,1,0,5,3300
+Lg,q stylus,2018-06,171,IPS LCD,6.2,389,Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53),Mali-T860MP2,16,0,0,8,3300
+Lg,q8 ,2018-08,172,IPS LCD,6.2,389,Octa-core 1.6 GHz Cortex-A53,Adreno 506,16,0,0,5,3300
+Blackberry,evolve,2018-08,170,IPS LCD,5.99,403,Octa-core 1.8 GHz Cortex-A53,Adreno 506,13+13,0,0,16,4000
+Htc,u11 eyes,2018-01,185,Super LCD3,6.0,402,Octa-core,Adreno 510,12,0,0,55,3930
+Apple,iphone 11,2019-09,194,Liquid Retina IPS LCD,6.1,326,Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),Apple GPU (4-core graphics),12+12,1,0,12,3110
+Samsung,galaxy a71,2019-12,179,Super AMOLED Plus,6.7,393,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,64+12+55,1,0,32,4500
+Apple,iphone 11 pro max,2019-09,226,Super Retina XDR OLED,6.5,458,Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),Apple GPU (4-core graphics),12+12+12,1,1,12,3969
+Samsung,galaxy s10,2019-02,157,Dynamic AMOLED,6.1,550,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55),Mali-G76 MP12,12+12+16,1,1,10,3400
+Samsung,galaxy s10+,2019-02,175,Dynamic AMOLED,6.4,522,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55),Mali-G76 MP12,12+12+16,1,1,10+8,4100
+Apple,iphone 11 pro,2019-09,188,Super Retina XDR OLED,5.8,458,Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),Apple GPU (4-core graphics),12+12+12,1,1,12,3046
+Samsung,galaxy note10+,2019-08,196,Dynamic AMOLED,6.8,498,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),Mali-G76 MP12,12+12+16+0.3,1,1,10,4300
+Huawei,p30 pro,2019-03,192,OLED,6.47,398,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+20,1,1,32,4200
+Samsung,galaxy s10e,2019-02,150,Dynamic AMOLED,5.8,438,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55),Mali-G76 MP12,12+16,1,0,10,3100
+Samsung,galaxy note10,2019-08,168,Dynamic AMOLED,6.3,401,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),Mali-G76 MP12,12+12+16,1,1,10,3500
+Samsung,galaxy a70,2019-03,183,Super AMOLED,6.7,393,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),Adreno 612,32+8+5,1,0,32,4500
+Samsung,galaxy a30,2019-02,165,Super AMOLED,6.4,403,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),Mali-G71 MP2,16+5,1,0,16,4000
+Google,pixel 4 xl,2019-10,193,P-OLED,6.3,537,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12.2+16,1,1,8,3700
+Xiaomi,mi note 10,2019-11,208,AMOLED,6.47,398,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,108+12+8+20+2,1,1,32,5260
+Google,pixel 4,2019-10,162,P-OLED,5.7,444,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12.2+16,1,1,8,2800
+Xiaomi,mi note 10 pro,2019-11,208,AMOLED,6.47,398,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,108+12+20+2,1,1,32,5260
+Huawei,p30,2019-03,165,OLED,6.1,422,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+16,1,1,32,3650
+Xiaomi,mi 9t,2019-06,191,AMOLED,6.39,403,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,48+8+13,1,1,20,4000
+Samsung,galaxy s10 5g,2019-02,198,Dynamic AMOLED,6.7,502,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55),Mali-G76 MP12,12+12+16+0.3,1,1,10,4500
+Xiaomi,mi 9,2019-02,173,Super AMOLED,6.39,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,48+12+16,1,1,20,3300
+Google,pixel 3a,2019-05,147,OLED,5.6,441,Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 615,12.2,1,0,8,3000
+Samsung,galaxy a80,2019-04,220,Super AMOLED,6.7,393,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,48+8,1,0,,3700
+Lg,v50 thinq 5g,2019-02,183,P-OLED,6.4,538,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+16,1,1,8+5,4000
+Sony,xperia 1,2019-02,178,OLED,6.5,643,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+12,1,1,8,3330
+Lg,g8 thinq,2019-02,167,P-OLED,6.1,564,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,1+6++M+P,1,1,8,3500
+Sony,xperia 5,2019-09,164,OLED,6.1,449,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+12,1,1,8,3140
+Xiaomi,mi 9t pro,2019-08,191,Super AMOLED,6.39,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,48+8+13,1,1,20,4000
+Lg,g8x thinq,2019-09,192,OLED,6.4,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+13,1,0,32,4000
+Huawei,mate 30 pro,2019-09,198,OLED,6.53,409,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),Mali-G76 MP16,40+8+40,1,1,32,4500
+Google,pixel 3a xl,2019-05,167,OLED,6.0,402,Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 615,12.2,1,0,8,3700
+Samsung,galaxy note10+ 5g,2019-08,198,Dynamic AMOLED,6.8,498,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),Mali-G76 MP12,12+12+16+0.3,1,1,10,4300
+Xiaomi,redmi k20 pro,2019-05,191,Super AMOLED,6.39,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,48+8+13,1,1,20,4000
+Samsung,galaxy a90 5g,2019-09,206,Super AMOLED,6.7,393,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,48+8+5,1,0,32,4500
+Xiaomi,mi 9 se,2019-02,155,Super AMOLED,5.97,432,Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 616,48+8+13,1,1,20,3070
+Sony,xperia 10 plus,2019-02,180,IPS LCD,6.5,422,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),Adreno 509,12+8,1,1,8,3000
+Nokia,9 pureview,2019-02,172,P-OLED,5.99,538,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),Adreno 630,12,1,0,20,3320
+Samsung,galaxy a70s,2019-09,187,Super AMOLED,6.7,393,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),Adreno 612,64+8+5,1,0,32,4500
+Samsung,galaxy fold,2019-02,263,Foldable Dynamic AMOLED,7.3,362,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+16,1,1,10+8+10,4380
+Xiaomi,mi 9 lite,2019-09,179,Super AMOLED,6.39,403,Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),Adreno 616,48+8+2,1,0,32,4030
+Lg,v50s thinq 5g,2019-10,192,OLED,6.4,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+13,1,0,32,4000
+Samsung,galaxy note10 5g,2019-08,168,Dynamic AMOLED,6.3,401,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),Mali-G76 MP12,12+12+16,1,1,10,3500
+Huawei,mate 30,2019-09,196,OLED,6.62,389,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),Mali-G76 MP16,40+8+16,1,1,24,4200
+Xiaomi,black shark 2,2019-03,205,AMOLED,6.39,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,48+12,1,1,20,4000
+Xiaomi,mi cc9 pro,2019-11,208,AMOLED,6.47,398,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),Adreno 618,108+12+5+20+2,1,1,32,5260
+Samsung,galaxy fold 5g,2019-02,263,Foldable Dynamic AMOLED,7.3,362,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+16,1,1,10+8+10,4235
+Lg,g8s thinq,2019-02,181,G-OLED,6.21,401,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12+13,1,1,8,3550
+Huawei,mate 30 pro 5g,2019-09,198,OLED,6.53,409,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55),Mali-G76 MP16,40+8+40,1,1,32,4500
+Xiaomi,mi 9 pro,2019-09,196,Super AMOLED,6.39,403,Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),Adreno 640 (700 MHz),48+12+16,1,1,20,4000
+Xiaomi,black shark 2 pro,2019-07,205,AMOLED,6.39,403,Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640 (700 MHz),48+12,1,1,20,4000
+Xiaomi,mi mix 3 5g,2019-02,225,Super AMOLED,6.39,403,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),Adreno 640,12+12,1,1,24+2,3800
+Samsung,galaxy xcover fieldpro,2019-10,256,IPS LCD,5.1,576,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55),Mali-G72 MP18,12,1,0,8,4500
+Huawei,mate 20 x ,2019-05,233,OLED,7.2,346,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),Mali-G76 MP10,40+8+20,1,1,24,4200
+Xiaomi,redmi k20 pro premium,2019-09,191,Super AMOLED,6.39,403,Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),Adreno 640 (700 MHz),48+8+13,1,1,20,4000
+Xiaomi,mi 9 pro 5g,2019-09,196,Super AMOLED,6.39,403,Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),Adreno 640 (700 MHz),48+12+16,1,1,20,4000
